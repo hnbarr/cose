@@ -1,0 +1,19 @@
+#landingPage {
+    background-image: url(../../assets/ombre.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+    height: 100vh;
+}
+
+.container {
+    position: relative;
+    top: 30%;
+    bottom: 30%;
+    #appTitle {
+        color: white;
+    }
+    p {
+        color: rgb(247, 196, 169);
+    }
+}
